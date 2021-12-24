@@ -1,3 +1,14 @@
+All intellectual property contained in any files developed and published by Beckhoff Automation GmbH & Co
+are the sole property of Beckhoff Automation GmbH & Co. These files include, but may not be limited to,
+TcAdsWebService.js, TsAdsWebSerice.dll, TcAdsSoap.dll, TcAdsWebService.WSDL.
+
+Use, modification, and distribution of any files owned by the above must be approved
+via Beckhoff Automation GmbH & Co. or pursuant to documentation releasing the above 
+for open use.
+
+All other code not the property of Beckhoff Automation GmbH & Co. falls under the
+below license.
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
