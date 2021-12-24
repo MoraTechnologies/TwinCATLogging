@@ -1,4 +1,4 @@
-# TwinCatLogging
+# TwinCATLogging
 Function Blocks for TC3 that: create a folder on OS hard disk, export logged events from Tc3_EventLogger, then clear all logged events in Tc3_EventLogger
 
 Function Blocks created in TC3 Build 4024.22.
